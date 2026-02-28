@@ -127,6 +127,9 @@
   <MpResetColors>Reset the colors</MpResetColors>
   <MpHideOtherPlayersInColonistBar>Hide other players in Colonist Bar</MpHideOtherPlayersInColonistBar>
   <MpGenerateDebugFile>Generate debug info</MpGenerateDebugFile>
+  <MpAutoRejoinOnDesync>Auto-rejoin on desync</MpAutoRejoinOnDesync>
+  <MpAutoRejoinOnDesyncDesc>Automatically attempt to rejoin the server when a desync is detected.</MpAutoRejoinOnDesyncDesc>
+  <MpIncludeReplayInDesync>Include replay in desync info</MpIncludeReplayInDesync>
 
   <!-- Ping alert -->
   <MpAlertPing>Multiplayer ping</MpAlertPing>
